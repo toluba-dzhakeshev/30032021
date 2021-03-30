@@ -1,0 +1,4 @@
+admin = {"login":"password", "logieen":'passwwordd', {"loginy":"privet"}}
+admin.update({"lolalal":"gugu",
+              "lalallala":"ksdskdskdk"})
+print(admin)
